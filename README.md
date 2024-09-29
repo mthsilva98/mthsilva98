@@ -1,4 +1,4 @@
-### Olá eu sou o Matheus Silva 🤙
+### Olá! eu sou o Matheus Silva 🤙
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussilva98/)
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/matheussilva98/)
 
